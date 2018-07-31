@@ -1,0 +1,11 @@
+___pycache___/*
+*.conf
+*.log
+*.db
+*.tmp
+password.txt
+*.pyc
+db.sqlite3
+.DS_Store
+startup.txt
+.idea*

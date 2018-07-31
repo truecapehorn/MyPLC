@@ -1,0 +1,7 @@
+[user]
+	email = truecapehorn@gmail.com
+	name = truecapehorn
+[alias]
+	ci = commit
+	st = status
+	l = log --pretty=oneline
