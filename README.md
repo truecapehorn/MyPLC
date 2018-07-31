@@ -1,4 +1,4 @@
-git # MyPLC
+# MyPLC
 
 Program do testowania programu w PLC. 
 
